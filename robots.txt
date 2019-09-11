@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diephuiwa.naacl.org/sitemap.xml
